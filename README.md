@@ -17,6 +17,23 @@ PDFMaker 是一款基于 Windows 的图片批量转换 PDF 工具。
 * 兼容中文文件名
 
 ---
+## Description
+
+A lightweight Windows image-to-PDF converter.
+
+Convert images, folders, and ZIP files into high-quality PDF documents easily.
+
+## Features
+
+- 🖼 Drag & drop images
+- 📁 Folder processing
+- 📦 ZIP extraction and conversion
+- 🔢 Automatic filename grouping
+- 🔄 EXIF photo auto rotation
+- 🌏 Chinese filename support
+- 📄 Batch PDF generation
+
+---
 
 # 功能特点
 
