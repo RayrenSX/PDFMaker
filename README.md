@@ -1,12 +1,7 @@
-# PDFMaker
-
+# PDFMaker 图片转 PDF 工具
 ![Windows](https://img.shields.io/badge/platform-Windows-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Version](https://img.shields.io/badge/version-1.0.0-orange)
-
-Windows 图片批量转 PDF 工具
-# PDFMaker 图片转 PDF 工具
-
 ## 简介
 
 PDFMaker 是一款基于 Windows 的图片批量转换 PDF 工具。
